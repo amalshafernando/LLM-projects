@@ -1,0 +1,6 @@
+OPEN_API_KEY = 
+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
+
+HUGGINGFACEHUB_API_TOKEN = 
+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
+
